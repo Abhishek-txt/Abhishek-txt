@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./header.png" width="100%" alt="Abhishek Das Amit"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Abhishek%20Das%20Amit&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Computer%20Science%20and%20Engineering%20Student&descAlignY=55&descSize=20&descColor=b0c4de" width="100%"/>
 <a href="https://linkedin.com/in/abhishekdasamit/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:abhishek.das.amitt@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/Abhishek-txt"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
@@ -127,3 +127,6 @@ All projects apply relational database design, real-time systems, or computer vi
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1b263b,100:0d1b2a&height=100&section=footer" width="100%"/>
 
 </div>
+
+
+one image not showing above gmail
