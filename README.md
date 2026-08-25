@@ -18,7 +18,7 @@
 
 - 🎓 Final-year **CSE** student at **American International University-Bangladesh**
 - 📄 Undergraduate thesis (Jan–Aug 2026): **Multi-Crop Plant Disease Detection using Deep Learning & XAI**
-- 🧠 Research background in **Computer Vision** — led a 5-author autonomous-driving perception paper (submitted to **ICCA 2025**)
+- 🧠 Research background in **Computer Vision** — led a 5-author autonomous-driving perception paper
 - 🗄️ Strong interest in **database systems** — Oracle, PL/SQL, MySQL, relational design
 - 🌱 Also comfortable across **Python, C++, C#, Java**, and web technologies
 - 💬 Bangla (native) · English (fluent)
